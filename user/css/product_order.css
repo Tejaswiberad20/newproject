@@ -1,0 +1,53 @@
+.order-box{
+    height: 450px;
+    width: 600px;
+    display: block;
+    margin: 50px auto;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow:0 0 5px 0px #ff1a75;
+}
+.pimg{
+    height: 300px;
+    border-radius: 20px;
+    width: 300px;
+}
+.pinfo{
+    display: flex;
+}
+.pname{
+    color:  #ff1a75;
+    text-align: start;
+    margin-top: 20px;
+    font-size: 25px;
+}
+.info{
+    font-size: 20px;
+}
+.price{
+    font-size: 25px;
+}
+.qty{
+    display: flex;
+    align-items: center;
+}
+.qimg{
+    height: 20px;
+}
+.btn{
+    display: block;
+    margin: 20px auto;
+    background-color: #ff1a75;
+    color: #fff;
+    border-radius: 10px;
+    width: 200px;
+    padding: 10px 20px;
+    font-size: 15px;
+}
+.btn:hover{
+    background-color: #ff1a75;
+    color: #fff;
+    box-shadow:0 0 10px 1px #ff1a75;
+}
+.quantity-total{
+}
