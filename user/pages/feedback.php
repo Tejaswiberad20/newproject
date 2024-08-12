@@ -26,10 +26,11 @@
   padding:10px 20px;
   border-radius:10px;
   text-align:center;
-  background-color:#ffe6f0;
+  background-color:#fff;
 }
 .input{
   width: 300px;
+  background-color: #ee96bc;
 
 }
 .btn{
